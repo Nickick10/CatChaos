@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2da4b6d635085f1dcb787c0c559ddf43
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240444
+  packageName: Create a Cat - Cat Generator
+  packageVersion: 1.0.0
+  assetPath: Assets/Create a Cat/Prefabs/Cat Examples/Tabby Cat/Tabby Cat Material.mat
+  uploadId: 581186

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce2ee8da646c331f8823294c025f1eab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240444
+  packageName: Create a Cat - Cat Generator
+  packageVersion: 1.0.0
+  assetPath: Assets/Create a Cat/Prefabs/Base Cat Settings.asset
+  uploadId: 581186

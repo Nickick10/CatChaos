@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 32f54fbd46e44557b8cc8b1792a8b1b8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240444
+  packageName: Create a Cat - Cat Generator
+  packageVersion: 1.0.0
+  assetPath: Assets/Create a Cat/Materials/Cat Cone Material.mat
+  uploadId: 581186

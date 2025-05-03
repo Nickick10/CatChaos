@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a77d6570d89e8b1992889a260aadc11
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240444
+  packageName: Create a Cat - Cat Generator
+  packageVersion: 1.0.0
+  assetPath: Assets/Create a Cat/Animation/Cat Animator Controller.controller
+  uploadId: 581186

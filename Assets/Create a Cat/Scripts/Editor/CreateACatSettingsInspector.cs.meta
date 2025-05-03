@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d13d71ff5ca18ff14ba408e2f4ba8a7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 240444
+  packageName: Create a Cat - Cat Generator
+  packageVersion: 1.0.0
+  assetPath: Assets/Create a Cat/Scripts/Editor/CreateACatSettingsInspector.cs
+  uploadId: 581186
