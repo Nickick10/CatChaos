@@ -1,5 +1,4 @@
 # Cat-Chaos
-CS 426 Final Project
 
 [Design Document](https://docs.google.com/document/d/1CFu6U85XrUEFJIyIWUjvCOGbUwl8SkGE5plIKW824DA/edit?usp=sharing)
 
@@ -13,6 +12,7 @@ Team Members: Arlette Diaz, Nick Filipov, Diego Bravo
 - Use the **Mouse** to look around.
 - **Left Mouse Click** (recently implemented for public demo) will push objects in front of you.
 - Press **E** to interact with power-ups around the level.
+- Press **C** to switch between Third and First person perspectives.
 
 # Continued Improvments
 ### Arlette Diaz:
